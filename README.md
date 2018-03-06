@@ -1,1 +1,1 @@
-# S.M.Art
+Login page is the basic html code for a user login purpose.Here, we have used html coding along with CSS and the javascript for front end and the php and MySql for the backend data storage purposes. The styling of the page is defined on the log.css file which you can refer here.
